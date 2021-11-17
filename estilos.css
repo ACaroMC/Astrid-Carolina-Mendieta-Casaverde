@@ -1,0 +1,174 @@
+.top {
+    font-size: 24px;color: rgb(99, 84, 87); text-overflow: ellipsis;
+    resize: horizontal;width: 200px; border-color: grey;
+    border-image: initial; overflow: hidden;border-width: 3px;border-style: solid;padding: 5px;
+    margin: 0px; white-space: nowrap;
+    
+}
+.agrupar {
+    width: 960px;
+    background: rgb(97, 221, 209);
+    margin: auto;
+}
+.header {
+    background: rgb(162, 149, 226);
+    padding: 20px;display: block;
+}
+.subtitulo {
+    font-size: 30px;
+    font-family: 'Shalimar', cursive;
+}
+.menu {
+    text-align: center;color: white;  background: rgb(16, 110, 131); padding: 1px;
+}
+.cuadricula {
+    text-align: center;margin: 10px; border-width: initial;border-style: solid;
+    border-color: blueviolet;border-image: initial;
+}
+.seccion {
+    width: 600px; float: left;
+    margin: 20px;
+}
+
+.logo {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.segdo {
+    margin: 10px;
+    padding: 40px;
+}
+.pie {
+    clear: both;
+    padding: 20px;
+    background: cornflowerblue;
+}
+.linkfinal {
+    color: cornflowerblue;
+    text-align: right;
+}
+
+h1 {font-size: 50px;font-family: "Dancing Script", cursive;
+    text-align: center;
+}
+h2 {
+    font-weight: bold; font-size: 20px;
+    font-family: 'Mochiy Pop P One', sans-serif;
+}
+article footer {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.link1 {
+    font-weight: bold;
+}
+#main-container{
+    margin: 150px auto;width: 600px
+}
+article {
+    margin-bottom: 15px;
+    background: rgb(235, 146, 208);border-width: 1px;
+    border-style: solid;border-color: rgb(153, 153, 153); border-image: initial;
+    padding: 20px;
+}
+
+.parrafo1 {
+    text-align: justify;
+}img {
+    width: 180px;
+    display: block;
+    margin: auto;
+}
+.tabla {
+    text-align: center;
+    background-color: white;
+    border-collapse: collapse ;width: 100%; margin-left: auto;margin-right: auto }
+th,td { text-align: center; padding: 15px;
+}
+thead {
+    background-color: #246355 ;color: white; text-align: center;
+    border-bottom: 5px solid #0f362d;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+tr:nth-child(even){background-color: #ddd;
+}
+
+tr:hover td {
+    background-color: #369681;color: white
+}
+
+
+
+
+h1 {
+    display: block;
+    font-size: 32px; 
+    font-weight: bold;
+}
+
+body {
+    text-align: center;
+    background: rgb(201, 173, 245);
+}
+
+
+div {
+    background: rgb(127, 145, 247);display: block;
+}
+
+
+.header {
+    background: rgb(162, 149, 226);
+    padding: 20px;font-family: 'Dancing Script', cursive;
+}
+
+header, section, footer, aside, nav { display: block;border-width: 1px; border-style: initial;border-color: rgb(155, 132, 241);
+    
+}
+
+.agrupar {
+    width: 960px;
+    background: rgb(97, 221, 209);
+    margin: auto;
+}
+blockquote {
+    display: block;} 
+   
+
+.columna blockquote {
+    margin-bottom: auto; border-width: 1px;
+    border-style: solid; border-color: black;
+    ; background: cadetblue; padding: 40px;
+}
+
+.columna {
+    width: 300px;
+    float: left;
+    margin: 20px 0px;
+}
+.pie {
+    clear: both;
+    padding: 20px;
+    background: cornflowerblue;
+}
+
+img {
+    width: 180px;
+    display: block;
+    margin: auto;
+}
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.menu li {
+    display: inline-block;font-family: sans-serif;border-width: 1px;border-style: solid;border-color: black;border-image: initial;list-style: none;padding: 5px;
+}

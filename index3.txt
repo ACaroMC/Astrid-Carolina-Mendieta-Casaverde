@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<title> Astrid Carolina Mendieta Casaverde</title>
+meta:vp 
+</head>
+<body> Hola! Bienvenid@ a mi primera página web
+
+<h1>This is my life for 21 years</h1>
+<p>Project 1.</p>
+
+</body>
+</html>
