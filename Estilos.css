@@ -1,0 +1,104 @@
+
+h1{
+     font-size: 40px;
+     font-family: 'Dancing Script', cursive
+     ;text-align: center;
+     
+     
+}
+.subtitulo {
+ font-size: 30px; font-family: 'Shalimar', cursive
+}
+
+
+h2{
+     font-weight: bold;
+     font-size: 20px;
+     font-family:sans-serif
+}
+.top{font-size: 24px; color: #635457; border: gray 3px solid;white-space: nowrap;overflow: hidden;text-overflow: ellipsis;padding: 5px;
+     margin: 0;resize: horizontal;width: 200px;
+
+}
+.parrafo1{text-align: justify;}
+
+
+
+header,section, footer, aside, nav {
+     border: 1px rgb(155, 132, 241);
+     display: block;
+}
+body{
+     text-align: center;background: rgb(201, 173, 245);
+}
+div{
+     background:rgb(127, 145, 247);
+}
+ .agrupar {
+     width: 960px;
+     background: rgb(97, 221, 209);
+     margin: auto 
+}
+.header{
+     background:#a295e2;
+     ; padding: 20px;
+}
+.menu{
+     background:#106e83; padding: 1px;; text-align:center;color: white; 
+}
+
+.tabla{
+     text-align:left;background-color: white;
+}
+ th,td { padding: 10px;text-align: center;
+ }
+ thead{background-color: rgb(72, 173, 168);color: white; border-bottom: solid 5px; text-align: center;
+
+ }
+    
+ tr:nth-child(even){
+      background-color: #ddd }
+
+tr:hover td{background-color: #369681 ;color: white;}
+    
+
+.menu li {
+    border: 1px solid black;display: inline-block;
+     list-style: none; padding: 5px; font: 14px; font: bold ; font-family: sans-serif;
+    }
+    .seccion {
+         margin: 20px ;width: 600px;float:left; 
+    }
+    article{
+         background:rgb(235, 146, 208); border:1px solid #999 
+         ;padding: 20px; margin-bottom: 15px;
+    }
+    article footer {text-align: left;margin-top: 20px;
+
+    }
+
+
+    .cuadricula{
+         margin: 10px;border: blueviolet solid;text-align: center;
+    }
+    .columna {
+         width: 300px ;float: left;margin: 20px 0;
+    }
+    .columna blockquote{
+         border: 1px solid black; background: cadetblue; margin-bottom: auto ;padding: 40px;
+    }
+    .pie {
+         clear: both;padding: 20px;background: cornflowerblue;
+    }
+    img{
+         width: 180px;display: block; margin: auto;
+    }
+    .link1{ font-weight: bold;
+
+     }
+    .logo{margin:0px;
+padding: 0px;box-sizing: border-box;}
+.segdo{ margin: 10px;padding: 40px;
+
+}
+.linkfinal{ color: cornflowerblue;text-align: right;}
